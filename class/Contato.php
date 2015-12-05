@@ -1,6 +1,8 @@
+<?php
+    require_once '../index.php';
+?>
 <form class="form-horizontal">
 <fieldset>
-
 <!-- Form Name -->
 <legend>Entre em Contato</legend>
 
