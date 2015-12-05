@@ -10,6 +10,9 @@ Elencar Regras de Negocios:
 O site devera ser responsivo.
 </li>
 <li>
+O menu devera ser interativo e responsivo.
+</li>
+<li>
 O site devera exibir na home as principais informações sobre a escola.
 </li>
 <li>
@@ -38,7 +41,7 @@ O site devera permitir a exibição de propagandas relacionadas.
 Josimar - Criar o repositorio, adicionar integrantes na equipe. - O site devera apresentar o calendário de aulas.
 </li>
 <li>
-Aline - 
+Aline - O site devera permitir a exibição de noticias atuais sobre a escola.
 </li>
 <li>
 Fernanda - O site devera ser responsivo. - O site devera exibir na home as principais informações sobre a escola.
@@ -47,8 +50,10 @@ Fernanda - O site devera ser responsivo. - O site devera exibir na home as princ
 Jackson - O site devera permitir envio de mensagens para os professores.
 </li>
 <li>
-Lucas - O site devera permitir a exibição de propagandas relacionadas
+Lucas - O site devera permitir o download de arquivos e programas relacionados a grade escolar.
 </li>
 <li>
-Marcos -
+Marcos - O menu devera ser interativo e responsivo. - O site devera permitir a exibição de previsão do tempo dos principais sites relacionados.
+</li>
 </ol>
+
