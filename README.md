@@ -47,7 +47,7 @@ Fernanda -
 Jackson - 
 </li>
 <li>
-Lucas -
+Lucas - 
 </li>
 <li>
 Marcos -
