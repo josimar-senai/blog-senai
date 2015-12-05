@@ -22,7 +22,7 @@ O site devera permitir envio de mensagens para os professores.
 O site devera permitir a exibição de noticias atuais sobre a escola.
 </li>
 <li>
-O site devera permitir a exibição de previsão do tempo dos principais sites relacionados 
+O site devera permitir a exibição de previsão do tempo dos principais sites relacionados.
 </li>
 <li>
 O site devera permitir o download de arquivos e programas relacionados a grade escolar.
@@ -35,16 +35,16 @@ O site devera permitir a exibição de propagandas relacionadas.
 <h2>Atividades:</h2>
 <ol>
 <li>
-Josimar - Criar o repositorio, adicionar integrantes na equipe
+Josimar - Criar o repositorio, adicionar integrantes na equipe. - O site devera apresentar o calendário de aulas.
 </li>
 <li>
 Aline - 
 </li>
 <li>
-Fernanda -
+Fernanda - O site devera ser responsivo. - O site devera exibir na home as principais informações sobre a escola.
 </li>
 <li>
-Jackson - 
+Jackson - O site devera permitir envio de mensagens para os professores.
 </li>
 <li>
 Lucas - 
