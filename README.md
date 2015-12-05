@@ -19,7 +19,7 @@ Definir as atividades a ser desenvolvidas
 
 Atividade:
 
-Josimar - 
+Josimar - Criar o repositorio, adicionar integrantes na equipe
 
 Aline - 
 
