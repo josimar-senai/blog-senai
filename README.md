@@ -47,7 +47,7 @@ Fernanda - O site devera ser responsivo. - O site devera exibir na home as princ
 Jackson - O site devera permitir envio de mensagens para os professores.
 </li>
 <li>
-Lucas - O site devera permitir a exibição de propagandas relacionadas.
+Lucas - 
 </li>
 <li>
 Marcos -
