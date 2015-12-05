@@ -1,5 +1,5 @@
 # blog-senai
-<h1>Blog para desenvolvimento em equipe na aula de informatica para internet</h1>
+<h1>Blog para desenvolvimento em equipe na aula de programação web 4</h1>
 
 Cria o projeto no Netbeans
 Elencar Regras de Negocios:
@@ -32,18 +32,23 @@ O site devera permitir a exibição de propagandas relacionadas.
 </li>
 </ul>
 
-Definir as atividades a ser desenvolvidas
-
-Atividade:
-
+<h2>Atividades:</h2>
+<ol>
+<li>
 Josimar - Criar o repositorio, adicionar integrantes na equipe
-
+</li>
+<li>
 Aline - 
-
+</li>
+<li>
 Fernanda -
-
+</li>
+<li>
 Jackson - 
-
+</li>
+<li>
 Lucas -
-
+</li>
+<li>
 Marcos -
+</ol>
