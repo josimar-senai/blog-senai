@@ -47,7 +47,7 @@ Fernanda -
 Jackson - 
 </li>
 <li>
-Lucas - O site devera permitir a exibição de propagandas relacionadas.
+Lucas - 
 </li>
 <li>
 Marcos -
