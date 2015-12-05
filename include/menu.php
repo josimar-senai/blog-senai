@@ -4,7 +4,7 @@
     <li><a href="##">Mensagem</a></li>
     <li><a href="##">Notícias</a></li>
     <li><a href="##">Tempo</a></li>
-    <li><a href="##">Downloads</a></li>
+    <li><a href="#pagina/previsãotempo#">Downloads</a></li>
     <li><a href="##">Mapas</a></li>
     <li><a href="##">Tecnologias</a></li>
 </ul>
