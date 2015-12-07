@@ -19,7 +19,7 @@
                     <div class="navbar-header">
                         <a class="navbar-brand active" href="index.php">Blog-Senai</a>
                     </div>
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <div>
                         <?php
                         require './include/menu.php';
                         if (isset($_GET['pagina'])) {
