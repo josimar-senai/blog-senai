@@ -13,7 +13,7 @@
     </head>
     <body>
 
-        <div class="container-fluid" style="width: 1024px;">
+        <div class="container-fluid" style="max-width: 1024px;">
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
                     <div class="navbar-header">
