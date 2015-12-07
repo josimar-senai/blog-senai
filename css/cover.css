@@ -18,7 +18,10 @@ a:hover {
   background-color: #fff;
   border: 1px solid #fff;
 }
-
+  #videothumbnail{
+    height: 50%;
+    width: 50%;
+    float: center;}
 
 /*
  * Base structure
@@ -66,7 +69,9 @@ body {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-
+.mapa{
+    border: 1px solid red;
+}
 .masthead-nav > li {
   display: inline-block;
 }
