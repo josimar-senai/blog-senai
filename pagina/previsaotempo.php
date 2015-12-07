@@ -28,6 +28,7 @@ class previsaotempo extends Pagina {
         </div>
 
 
+<<<<<<< HEAD
         <div class="row ">
             <div class="col-md-4 ">
                 <p class="lead blog-description ">Tempo Agora</p>
@@ -51,3 +52,4 @@ class previsaotempo extends Pagina {
     }
 
 }
+
