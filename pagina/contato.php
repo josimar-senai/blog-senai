@@ -12,7 +12,7 @@ class contato extends Pagina {
     //aki vai as configurações da pagina
     protected function configura() {
         //seta o titulo da pagina que aparece na aba do navegador
-        $this->setTitulo("Página inicial do site");
+        $this->setTitulo("Contato");
     }
     
     //metodo abstrato obrigatorio
@@ -20,7 +20,7 @@ class contato extends Pagina {
     protected function conteudo() {
         //o HTML puro que vai aparecer no corpo do documento
         ?>
-        
+        <h1 class="blog-title">Mensagem</h1>
 <form class="form-horizontal">
     <fieldset>
         <!-- Form Name -->

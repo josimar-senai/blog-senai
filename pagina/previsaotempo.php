@@ -12,7 +12,7 @@ class previsaotempo extends Pagina {
     //aki vai as configurações da pagina
     protected function configura() {
         //seta o titulo da pagina que aparece na aba do navegador
-        $this->setTitulo("Página inicial do site");
+        $this->setTitulo("Previsão do Tempo");
     }
 
     //metodo abstrato obrigatorio
@@ -26,6 +26,7 @@ class previsaotempo extends Pagina {
             <h1 class="blog-title">Previsão do tempo</h1>
             <p class="lead blog-description">Confira a previsão do tempo nos principais sites</p>
         </div>
+
 
 
         <div class="row ">
@@ -51,3 +52,4 @@ class previsaotempo extends Pagina {
     }
 
 }
+
