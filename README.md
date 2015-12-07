@@ -50,7 +50,7 @@ Fernanda - O site devera ser responsivo. - O site devera exibir na home as princ
 Jackson - O site devera permitir envio de mensagens para os professores.
 </li>
 <li>
-Lucas - O site devera permitir o download de arquivos e programas relacionados a grade escolar.
+Lucas - O site devera permitir o download de arquivos e programas relacionados a grade escolar. Fazer publicidade da página.
 </li>
 <li>
 Marcos - O menu devera ser interativo e responsivo. - O site devera permitir a exibição de previsão do tempo dos principais sites relacionados.
