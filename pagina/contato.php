@@ -1,3 +1,26 @@
+<?php
+
+/**
+ * classe responsavel por mostrar o conteudo da pagina
+ *
+ * @author josimar_souza1
+ */
+
+//estanciar a superclasse pagina
+class contato extends Pagina {
+    //metodo abstrato obrigatorio
+    //aki vai as configurações da pagina
+    protected function configura() {
+        //seta o titulo da pagina que aparece na aba do navegador
+        $this->setTitulo("Página inicial do site");
+    }
+    
+    //metodo abstrato obrigatorio
+    //aki fica o conteudo da pagina
+    protected function conteudo() {
+        //o HTML puro que vai aparecer no corpo do documento
+        ?>
+        
 <form class="form-horizontal">
     <fieldset>
         <!-- Form Name -->
@@ -40,3 +63,8 @@
 
     </fieldset>
 </form>
+
+        <?php
+    }
+
+}
